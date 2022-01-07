@@ -1,9 +1,10 @@
-WOW: Wafflehaüs' Organized Workspace!
+Graduate Unified Theory Collaboation Workspace
 ================
 
-This is the Meteor app that coordinates solving for the MIT Mystery Hunt team affiliated with Simmons Hall. Officially, our name is Wafflehaüs, although we occasionally go by Simhunt. 
+This is the Meteor app that coordinates solving for the MIT Mystery Hunt team affiliated with the "Grad Unified Theory" team.
 
-This app is based on [Galackboard](https://github.com/Galactic-Infrastructure/galackboard) (developed by ✈﻿✈﻿✈ Galactic Trendsetters ✈﻿✈﻿✈), which in turn is based on the Codex [Blackboard](https://github.com/cjb/codex-blackboard) (developed by Codex).
+This app is largely a clone of the [WOW](https://github.com/simhunt/wow) app, created by Simhunt/Wafflehaüs, the Simmons Hall team.  Some code and references from WOW remain on this README.
+That app is based on [Galackboard](https://github.com/Galactic-Infrastructure/galackboard) (developed by ✈﻿✈﻿✈ Galactic Trendsetters ✈﻿✈﻿✈), which in turn is based on the Codex [Blackboard](https://github.com/cjb/codex-blackboard) (developed by Codex).
 
 The app is a work in progress. Proceed with caution.
   
