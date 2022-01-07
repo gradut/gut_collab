@@ -11,13 +11,13 @@ settings.CLIENT_UUID = Random.id()
 # used to create gravatars from nicks
 settings.DEFAULT_HOST = server.defaultHost ? 'codexian.us'
 
-settings.TEAM_NAME = server.teamName ? 'Codex'
+settings.TEAM_NAME = server.teamName ? 'Grad Unified Theory'
 
-settings.GENERAL_ROOM_NAME = server.chatName ? 'Ringhunters'
+settings.GENERAL_ROOM_NAME = server.chatName ? 'Theoretical Hunters'
 
-settings.NAME_PLACEHOLDER = server.namePlaceholder ? 'J. Random Codexian'
+settings.NAME_PLACEHOLDER = server.namePlaceholder ? 'G. Random Theoretician'
 
-settings.WHOSE_GITHUB = server.whoseGitHub ? 'cjb'
+settings.WHOSE_GITHUB = server.whoseGitHub ? 'gradut'
 
 settings.INITIAL_CHAT_LIMIT = server.initialChatLimit ? 200
 
